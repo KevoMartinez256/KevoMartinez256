@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/TU-USUARIO">
-    <img src="https://komarev.com/ghpvc/?username=TU-USUARIO&label=Profile%20views&color=00bfa6&style=flat" alt="profile views" />
+  <a href="https://github.com/Kevomartinez256">
+    <img src="https://komarev.com/ghpvc/?username=Kevomartinez256&label=Profile%20views&color=00bfa6&style=flat" alt="profile views" />
   </a>
 </p>
 
@@ -146,14 +146,14 @@ Also contributed to functional testing, bug documentation, API integration and r
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kevomartinez256&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevomartinez256&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 📫 Contact
 
-- Portfolio: `TU-LINK-DE-PORTAFOLIO`
+- Portfolio: `kevinacatalan.com`
 - GitHub: `https://github.com/Kevomartinez256`
 - Email: `kevomartinez256@gmail.com`
