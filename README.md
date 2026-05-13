@@ -155,5 +155,5 @@ Also contributed to functional testing, bug documentation, API integration and r
 ## 📫 Contact
 
 - Portfolio: `TU-LINK-DE-PORTAFOLIO`
-- GitHub: `https://github.com/TU-USUARIO`
-- Email: `TU-CORREO`
+- GitHub: `https://github.com/Kevomartinez256`
+- Email: `kevomartinez256@gmail.com`
